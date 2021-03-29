@@ -13,9 +13,10 @@
       android:id="@+id/foto"
       android:layout_width="@dimen/dimen200"
       android:layout_height="@dimen/dimen200"
+      android:src="@drawable/fotoprofile"
       android:layout_alignParentTop="true"
       android:layout_centerInParent="true"
-      android:padding="@dimen/dimen16"
+      android:padding="@dimen/dimen20"
       android:layout_marginBottom="@dimen/dimen10"
       android:background="@color/merchantMarineBlue"
       />
