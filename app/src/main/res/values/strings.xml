@@ -5,5 +5,11 @@
     <string name="kelas">KELAS : IF-1/S1/VI</string>
     <string name="fotoProfil">Foto Profil : </string>
     <string name="jenisKelamin">Jenis Kelamin : Laki-laki</string>
+    <string name="ttl">Bandung, 23 Desember 1999</string>
+    <string name="alamat">Jalan Tangkuban Perahu No.21 RT01/RW13 Lembang</string>
+    <string name="golDar">Golongan Darah : O</string>
+    <string name="makanan">Makanan Kesukaan : Tempe Goreng</string>
+    <string name="minuman">Minuman Kesukaan : Teh Manis</string>
+
 
 </resources>
