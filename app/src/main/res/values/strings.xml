@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tugas1</string>
+    <string name="nama">Muhammad Ihsan</string>
+    <string name="nim">10118037</string>
+    <string name="kelas">KELAS : IF-1/S1/VI</string>
+    <string name="fotoProfil">Foto Profil : </string>
+    <string name="jenisKelamin">Jenis Kelamin : Laki-laki</string>
+
+</resources>

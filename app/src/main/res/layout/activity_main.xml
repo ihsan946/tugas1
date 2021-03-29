@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/dimen16"
+    tools:context=".MainActivity">
+  
+  <ImageView
+      android:id="@+id/foto"
+      android:layout_width="@dimen/dimen100"
+      android:layout_height="@dimen/dimen100"
+      android:layout_alignParentTop="true"
+      android:layout_centerInParent="true"
+      android:padding="@dimen/dimen16"
+      android:layout_marginBottom="@dimen/dimen10"
+      android:src="@drawable/fotoProfile"
+      android:background="@color/merchantMarineBlue"
+      />
+  <View
+      android:id="@+id/garis1"
+      android:layout_width="@dimen/dimen380"
+      android:layout_height="@dimen/dimen10"
+      android:layout_below="@id/foto"
+      android:layout_centerInParent="true"
+      android:layout_marginBottom="@dimen/dimen10"
+      android:background="@color/d1"
+      />
+  <TextView
+      android:id="@+id/teks1"
+      android:layout_width="@dimen/dimen150"
+      android:layout_height="@dimen/dimen20"
+      android:layout_centerInParent="true"
+      android:layout_below="@id/garis1"
+      android:text="@string/nama"
+      android:textColor="@color/white"
+      android:background="@color/e1"/>
+  <TextView
+      android:id="@+id/teks2"
+      android:layout_width="@dimen/dimen70"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks1"
+      android:layout_centerInParent="true"
+      android:text="@string/nim"
+      android:textColor="@color/white"
+      android:background="@color/e2"/>
+  <TextView
+      android:id="@+id/teks3"
+      android:layout_width="@dimen/dimen150"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks2"
+      android:layout_centerInParent="true"
+      android:text="@string/kelas"
+      android:textColor="@color/white"
+      android:background="@color/e3"/>
+  <TextView
+      android:id="@+id/teks4"
+      android:layout_width="@dimen/dimen150"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks3"
+      android:layout_centerInParent="true"
+      android:text="@string/jenisKelamin"
+      android:textColor="@color/white"
+      android:background="@color/e4"/>
+
+
+</RelativeLayout>
+
+
+

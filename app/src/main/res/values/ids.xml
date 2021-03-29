@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="teks2" type="id" />
+    <item name="teks1" type="id" />
+    <item name="foto" type="id"/>
+    <item name="teks3" type="id" />
+    <item name="teks4" type="id" />
+    <item name="garis1" type="id" />
+</resources>
