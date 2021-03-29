@@ -20,6 +20,7 @@
     <dimen name="dimen320">320dp</dimen>
     <dimen name="dimen380">380dp</dimen>
 
-    <!---->
+    <!--ukuran font-->
+    <dimen name="sp18">18sp</dimen>
 
 </resources>
