@@ -13,7 +13,10 @@
     <string name="hobi">Hobi : Main Game</string>
     <string name="laguFavorit">Lagu Favorit : Kygo Stay</string>
     <string name="filmFavorit">Film Favorit : Snowden</string>
-    <string name="pekerjaan"></string>
+    <string name="pekerjaan">Pekerjaan yang diinginkan : Network Administrator</string>
+    <string name="copyright">Copyright : 2021</string>
+
+
 
 
 </resources>
