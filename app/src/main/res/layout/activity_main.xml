@@ -100,6 +100,33 @@
       android:text="@string/minuman"
       android:textColor="@color/white"
       android:background="@color/e8"/>
+  <TextView
+      android:id="@+id/teks9"
+      android:layout_width="@dimen/dimen120"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks8"
+      android:layout_centerInParent="true"
+      android:text="@string/hobi"
+      android:textColor="@color/white"
+      android:background="@color/e9"/>
+  <TextView
+      android:id="@+id/teks10"
+      android:layout_width="@dimen/dimen120"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks9"
+      android:layout_centerInParent="true"
+      android:text="@string/laguFavorit"
+      android:textColor="@color/white"
+      android:background="@color/e10"/>
+  <TextView
+      android:id="@+id/teks11"
+      android:layout_width="@dimen/dimen150"
+      android:layout_height="@dimen/dimen20"
+      android:layout_below="@id/teks10"
+      android:layout_centerInParent="true"
+      android:text="@string/filmFavorit"
+      android:textColor="@color/white"
+      android:background="@color/e11"/>
 
 
 

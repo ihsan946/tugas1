@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tugas1</string>
+    <string name="app_name">Tugas1</string>
     <string name="nama">Muhammad Ihsan</string>
     <string name="nim">10118037</string>
     <string name="kelas">KELAS : IF-1/S1/VI</string>
@@ -10,6 +10,10 @@
     <string name="golDar">Golongan Darah : O</string>
     <string name="makanan">Makanan Kesukaan : Tempe Goreng</string>
     <string name="minuman">Minuman Kesukaan : Teh Manis</string>
+    <string name="hobi">Hobi : Main Game</string>
+    <string name="laguFavorit">Lagu Favorit : Kygo Stay</string>
+    <string name="filmFavorit">Film Favorit : Snowden</string>
+    <string name="pekerjaan"></string>
 
 
 </resources>
